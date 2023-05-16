@@ -1,8 +1,6 @@
 const Sidebar = () => {
     return (
-        <div className="flex w-60 h-screen bg-blue">
-
-        </div>
+    {/** This is reserved to a fancy navbar */}
     );
 };
 
